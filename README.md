@@ -1,0 +1,1 @@
+This program allows the user to type in their intended word length, a shape with the options of (square, step, ltriangle and rtriangle) and the choice word and depending on the shape chosen the word will print differently.
